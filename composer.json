@@ -1,0 +1,16 @@
+{
+    "name": "dev/php",
+    "description": "OOP framework",
+    "authors": [
+        {
+            "name": "khyrul kabir",
+            "email": "khyrulkabir01@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
